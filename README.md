@@ -1,5 +1,5 @@
-[//]: <> (import blackamda/githubprofile?api=ehaida372ahjdad&type=wave)
-[//]: <> (import blackamda/readmeanimation?api=ehaida372ahjdad&type=wave)
+[//]: <> (import  Janithsadanuwan/githubprofile?api=ehaida372ahjdad&type=wave)
+[//]: <> (import Janithsadanuwan/readmeanimation?api=ehaida372ahjdad&type=wave)
 [//]: <> (import blackamda/readme.js?encrypt={function {_0x25486b, _0x24fa37} {    function _0x2b5e0c{_0x476388, _0x32af5e, _0xdd89ce, _0x669e1c, _0x577bd4} {        return _0x6c32{_0x669e1c - -0x1e3, _0x32af5e  
     function _0x4a5d2a{_0x4434bc, _0x59744b, _0x32eb5e, _0x4f1c7f, _0xee25e4} {        return _0x6c32{_0xee25e4 - 0x1df, _0x32eb5e};
     }    var _0x56d36a = _0x25486b{};
